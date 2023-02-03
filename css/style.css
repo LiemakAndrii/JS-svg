@@ -15,7 +15,7 @@
 }
 
 .floor:hover {
-  fill: deeppink;
+  fill: rgb(67, 255, 20);
   stroke: black;
   fill-opacity: 0.28;
   cursor: pointer;
